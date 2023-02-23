@@ -1,1 +1,3 @@
-// Code your solution in this file!
+const distanceFromHqinBlocks = (blocks) => {
+    return Math.abs(blocks - 42) 
+}
